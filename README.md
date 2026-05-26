@@ -40,11 +40,11 @@ This is the place where I opensource stuff and break things 🛠️
   <!--START_SECTION:waka-->
 
 ```txt
-Go                         13 hrs 13 mins        █████████████░░░░░░░░░░░░   52.62 %
-TypeScript                 3 hrs 2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-JSON                       1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Markdown                   1 hr 14 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-HTML                       1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Go                         12 hrs 58 mins        █████████████▓░░░░░░░░░░░   55.06 %
+Python                     2 hrs 44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Markdown                   1 hr 30 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+TypeScript                 1 hr 7 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+JSON                       58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->

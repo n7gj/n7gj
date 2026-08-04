@@ -40,11 +40,11 @@ This is the place where I opensource stuff and break things 🛠️
   <!--START_SECTION:waka-->
 
 ```txt
-Python                     8 hrs 28 mins         █████████▒░░░░░░░░░░░░░░░   37.26 %
-Markdown                   2 hrs 33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-Vue                        2 hrs 22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-JSON                       1 hr 27 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Bash                       1 hr 22 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Python                     8 hrs 20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.29 %
+Vue                        7 hrs 52 mins         ███████░░░░░░░░░░░░░░░░░░   27.66 %
+Markdown                   2 hrs 33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Bash                       2 hrs 25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+JavaScript                 1 hr 44 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
 ```
 
 <!--END_SECTION:waka-->

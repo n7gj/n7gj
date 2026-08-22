@@ -40,11 +40,11 @@ This is the place where I opensource stuff and break things 🛠️
   <!--START_SECTION:waka-->
 
 ```txt
-Vue          14 hrs 5 mins         ████████████████▒░░░░░░░░   64.93 %
-JavaScript   2 hrs 50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-Python       2 hrs 17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Docker       49 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-SCSS         32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Vue                        13 hrs 52 mins        █████████████▓░░░░░░░░░░░   55.23 %
+Python                     4 hrs 9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+JavaScript                 2 hrs 37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+Markdown                   1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Docker                     1 hr 11 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
 <!--END_SECTION:waka-->
